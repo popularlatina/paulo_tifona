@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Paulo Tifona
+N:Tifona;Paulo;;;
+item1.EMAIL;TYPE=INTERNET:geral@popularlatina.pt
+item1.X-ABLabel:Trabalho
+item2.TEL:916 554 350
+item2.X-ABLabel:Telemóvel
+item3.TEL:219 595 763
+item3.X-ABLabel:Telefone
+ADR:;;Praceta do Parque\, n.º 3\, Loja Cave - Urbanização Courela da Bica -
+  Bairro do Estacal Novo;Santa Iria de Azóia;;2690-543;PT;Praceta do Parque
+ \, n.º 3\, Loja Cave - Urbanização Courela da Bica - Bairro do Estacal Nov
+ o\n2690-543 Santa Iria de Azóia\nPT
+item4.ORG:Popular Latina
+item4.X-ABLabel:
+item5.URL:www.popularlatina.pt
+item5.X-ABLabel:Site
+CATEGORIES:Imported on 12/8,myContacts
+END:VCARD
